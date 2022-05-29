@@ -17,7 +17,7 @@ Item details page opens up on click on any item in the main page. It displays mo
 ![](./Screenshots/details_2.PNG)
 
 ### Filter Option Screen
-Click on filter option in main screen opens the filter page where in user can set the filter option. The functionality of filter page in which it brings changes to the main page hasn't been implemented as of now and can be extended later. The filter page consists of basic UI components such as slider, simple buttons, select component for drop-down list, scoller, etc.
+Click on filter option in main screen opens the filter page where in user can set the filter option. The filter page consists of basic UI components such as slider, simple buttons, select component for drop-down list, scoller, etc.
 
 ![](./Screenshots/filter_1.PNG)
 ![](./Screenshots/filter_2.PNG)
